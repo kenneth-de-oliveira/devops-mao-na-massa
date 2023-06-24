@@ -21,7 +21,7 @@ O Prometheus é um sistema de monitoramento e alerta de código aberto que ajuda
 ## SonarQube
 O SonarQube é uma plataforma de análise estática de código que ajuda a garantir a qualidade e a segurança do software. Ele realiza verificações automáticas no código-fonte para identificar bugs, vulnerabilidades, dívidas técnicas e outras questões que possam afetar a manutenção e a estabilidade do aplicativo.
 
-## Sarwm (docker)
+## Sarwm
 O Sarwm (Scalable Application Resource and Workload Manager) é uma solução do Docker que oferece recursos avançados de gerenciamento e escalabilidade para aplicativos em contêineres. Ele permite dimensionar automaticamente os recursos de acordo com a carga de trabalho, otimizando o desempenho e garantindo a disponibilidade contínua dos aplicativos.
 
 ## Vagrant
